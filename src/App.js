@@ -103,10 +103,11 @@ function App() {
                 clipRule="evenodd"
               />
             </svg>
-            DEVS CHAT 
+            உழவர்இந்திய தொடர்பு
+
           </h2>
           <p className="mb-8 text-lg text-center">
-            Share Codes And Discussions Are Done Here
+            
           </p>
           <button
             onClick={signInWithGoogle}
